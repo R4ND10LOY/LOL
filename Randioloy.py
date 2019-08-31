@@ -33,11 +33,6 @@ sleep(1)
 print(b+'\n[!] Setting up..')
 sleep(2)
 os.system('termux-reload-settings')
-print(a+'[!] Successfully !! ^^'+c+'\n\nhubungi https://t.me/om_karjok untuk requests\natau pertanyaan, atau hubungi https://t.me/CRABS_ID\nThanks :*\n\n')
+print(a+'[!] Successfully \n terimakasih telah mengunjungi tols kami \n')
 
 
-# ____      _    _   _ ____ ___
-#|  _ \    / \  | \ | |  _ \_ _|
-#| |_) |  / _ \ |  \| | | | | |
-#|  _ <  / ___ \| |\  | |_| | |
-#|_| \_\/_/   \_\_| \_|____/___|
